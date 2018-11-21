@@ -1,4 +1,4 @@
-#### <center>Three Top Conferences of Computer Vision Summary</center>
+<center>Three Top Conferences of Computer Vision Summary</center>
 
 
 
